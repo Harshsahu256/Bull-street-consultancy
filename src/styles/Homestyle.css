@@ -1,0 +1,317 @@
+@import url("https://fonts.googleapis.com/css2?family=Geo:ital@0;1&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&display=swap");
+.bgimagebsnner {
+  background-image: url("/other/4.png");
+  background-size: cover;
+  background-position: center;
+}
+.bgimagebreadcumb {
+  background-image: url("/other/Frame-2-2.png");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+input,
+select {
+  width: 100%;
+  height: 40px;
+  border: 2px solid #ccc; /* Default border */
+  padding: 5px;
+  border-radius: 5px; /* Optional: to make corners rounded */
+  outline: none; /* Remove the default outline when focused */
+}
+
+input:focus,
+select:focus {
+  border: 2px solid #ccc; /* Green border on focus */
+  box-shadow: 0 0 5px rgba(76, 175, 80, 0.5); /* Optional: Add a shadow effect */
+}
+button {
+  width: 100%;
+  border: 2px solid #ccc; /* Default border */
+  padding: 5px;
+  outline: none;
+}
+button:focus {
+  border: 2px solid #ccc; /* Green border on focus */
+  box-shadow: 0 0 5px rgba(76, 175, 80, 0.5); /* Optional: Add a shadow effect */
+}
+.headingbanner {
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+}
+.headingcommon {
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+.bannerpara {
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+/* About  */
+
+.bgimageabout{
+    background-image: url("/other/11.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 90px;
+  }
+  .redheading{
+    color: #ac1929;
+    font-weight: 500
+  }
+.paddingcustom{
+    padding: 80px 0;
+}
+
+.bankpara{
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+/* headings for packages */
+.headingpackage{
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+color: #ac1929;
+}
+.headingpackageFont{
+  font-size: 30px;
+  font-weight: 600;
+}
+.headingpackageFontpara{
+ 
+  font-size: 20px;
+  font-weight: 500;
+}
+.headingpackageFontprice{
+font-weight: 800;
+font-size: 60px;
+}
+.headingPackagePara{
+  font-size: 14px;
+  color: #ac1929;
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+font-weight: 400;
+}
+.headingPackageli{
+  font-size: 18px;
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+font-weight: 400;
+}
+
+.btnpackage{
+  width: 180px;
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 10px;
+  margin: 20px 0;
+font-weight: 500;
+font-size: 20PX;
+}
+.btnpackage1{
+  width: 180px;
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #000;
+  padding: 10px;
+  margin: 20px 0;
+font-weight: 500;
+font-size: 20PX;
+}
+.iconstyle{
+  font-size: 33px;
+color: #ac1929;
+}
+
+/* headings ends for packages */
+.bgimagecontact{
+  background-image: url("/other/12.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 90px;
+}
+
+ /* why bullstreet */
+
+/* Consistent height and width for all boxes */
+.box {
+    width: 30%; /* Adjust width as needed for desktop view */
+    min-width: 150px; /* Minimum width for responsive scaling */
+    height: auto; /* Set height for all boxes */
+    margin: 40px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+  }
+  .pad-80{
+    padding: 80px;
+    padding-left: 80;
+  }
+  
+.connectwithus{  
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+color: #ac1929;
+letter-spacing: 8px;
+}
+
+.hadingrule{
+    font-weight: 700;
+}
+.rulepara{
+    font-size: 18px;
+    color: #000;
+    font-family: "Quicksand", Arial, Helvetica, sans-serif;
+font-weight: 400;
+}
+
+/* tESTIMONIAL */
+.bgimageatestimonial{
+    background-image: url("/other/6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+.tesimonial-block{
+ max-height:500px ;
+ max-width: 500px; 
+}
+
+  .fontstylecss{
+    font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  }
+.contactbtn{
+  width: 200px;
+  background-color: #ac1929;
+  border: 1px solid #ac1929;
+  color: white;
+  padding: 10px;
+  border-radius: 2px;
+}
+.contactbtn:hover{
+ scale: 1.05 ;
+ background-color: #a01a2a; 
+ /* font-weight: 600; */
+ 
+}
+
+/* pop up */
+
+.font400{
+  font-weight: 400;
+}
+.font600{
+font-size: 22px;
+margin-top: 40px;
+  font-weight: 600;
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  z-index: 999; /* Make sure this is behind the popup */
+}
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 55%;
+  padding: 0px;
+padding-top: 50px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn-popup {
+background-color: #ac1929;
+border:1px solid #ac1929;
+color: white;
+margin-top: 30px;
+}
+
+  @media (max-width: 992px) { /* For tablets */
+    .box {
+      width: 45%; /* Two boxes per row */
+    }
+      
+.connectwithus{  
+    font-size: 30px;
+  letter-spacing: 5px;
+  }
+  .popup {
+    width: 95%;
+  }
+  
+  }
+  
+  @media (max-width: 576px) { /* For mobile */
+    .box {
+      width: 100%; /* One box per row */
+    }
+
+ 
+  }
+
+@media (max-width: 768px) {
+  .bgimagebsnner {
+  }
+  .formcss {
+    padding: 30px 10px;
+  }
+  .headingbanner {
+    font-size: 23px;
+  }
+  .headingcommon {
+    font-size: 25px;
+  }
+  .bannerpara {
+    font-size: 20px;
+  }
+     
+.headingpackageFont{
+  font-size: 26px;
+}
+.headingpackageFontpara{ 
+  font-size: 18px;
+}
+.headingpackageFontprice{
+font-size: 40px;
+}
+.headingPackagePara{
+  font-size: 15px; 
+}
+.headingPackageli{
+  font-size: 16px;
+}
+
+.btnpackage{
+font-size: 18PX;
+margin-left: 20px;
+}
+.iconstyle{
+  font-size: 25px;
+}
+.pad-80{
+  padding: 30px;
+}
+
+}
+

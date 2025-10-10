@@ -1,0 +1,160 @@
+/* =========================== header Middle Css Start =============================== */
+.header-middle {
+    padding: 30px 0;
+}
+.header-middle.style-two {
+    padding: 24px 0;
+}
+@media (min-width: 1200px) {
+    .header-middle {
+        padding: 24px 0;
+    }
+}
+@media (min-width: 992px) {
+    .header-middle {
+        padding: 16px 0 !important;
+    }
+    .header-middle .location-box {
+        padding: 6px 8px !important;
+    }
+}
+@media (min-width: 768px) {
+    .header-middle {
+        padding: 8px 0 !important;
+    }
+    .header-middle .location-box {
+        padding-left: 14px !important;
+    }
+}
+
+.form-location-wrapper {
+    gap: calc(8px + (16 - 8) * ((100vw - 1199px) / (1599 - 1199)));
+}
+
+/* Search Form Css Here */
+@media (min-width: 768px) {
+    .search-form .select2-selection.select2-selection--single {
+        border-radius: 50px !important;
+        background-color: hsl(var(--white)) !important;
+        border: 1px solid var(--gray-100) !important;
+    }
+    .search-form__wrapper {
+        display: none;
+    }
+}
+.search-form__input {
+    border-color: var(--gray-200) !important;
+    width: 520px;
+}
+@media (min-width: 1600px) {
+    .search-form__input {
+        width: 400px;
+    }
+}
+@media (min-width: 1200px) {
+    .search-form__input {
+        width: 300px;
+    }
+}
+@media (min-width: 992px) {
+    .search-form__input {
+        width: 200px;
+    }
+}
+
+/* Header Activities Css Start */
+@media (min-width: 1200px) {
+    .header-two-activities {
+        gap: 24px !important;
+    }
+}
+@media (min-width: 768px) {
+    .header-two-activities {
+        gap: 16px !important;
+    }
+    .header-two-activities .item-hover-two > span {
+        font-size: 18px !important;
+        color: var(--neutral-600) !important;
+    }
+}
+@media (max-width: 768px) {
+    .header-two-activities {
+        gap: 10px !important;
+    }
+}
+/* Header Activities Css End */
+
+/* Header Activities Css start */
+.search-category.style-two {
+    background-color: hsl(var(--white));
+    border-radius: 8px;
+    overflow: hidden;
+}
+.search-category.style-two .select2-container--default .select2-selection--single {
+    border-radius: 0;
+    border-left: 0 !important;
+    border-top: 0 !important;
+    border-bottom: 0 !important;
+}
+/* Header Activities Css End */
+
+/* Category Dropdown Responsive Css Start */
+@media (min-width: 768px) {
+    .responsive-dropdown {
+        position: fixed;
+        left: 0;
+        top: 0;
+        visibility: visible;
+        opacity: 1;
+        margin-top: 0;
+        border-radius: 0;
+        width: unset !important;
+        height: 100vh;
+        overflow-y: auto;
+        transform: translateX(-100%);
+        padding-top: 8px !important;
+    }
+    .responsive-dropdown.active {
+        transform: translateX(0);
+    }
+    .responsive-dropdown ul {
+        max-height: 100% !important;
+    }
+    .responsive-dropdown ul li.active > a {
+        background: var(--gray-50);
+        color: var(--gray-800) !important;
+        font-weight: 600;
+    }
+    .responsive-dropdown ul li.active > a .icon {
+        transform: rotate(90deg);
+    }
+    .responsive-dropdown ul li a {
+        border-bottom: 1px solid var(--gray-100);
+    }
+    .responsive-dropdown .submenus-submenu {
+        position: static;
+        visibility: visible;
+        opacity: 1;
+        box-shadow: none;
+        border-radius: 0;
+        margin-left: 40px;
+        width: unset;
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+        display: none;
+    }
+    .responsive-dropdown .submenus-submenu__title {
+        display: none;
+    }
+    .responsive-dropdown .submenus-submenu__list {
+        max-height: unset !important;
+    }
+    .responsive-dropdown .submenus-submenu__list li a {
+        padding-left: 16px;
+    }
+    .responsive-dropdown .submenus-submenu__list li a::before {
+        left: 0;
+    }
+}
+/* Category Dropdown Responsive Css End */
+/* =========================== header Middle Css End =============================== */
