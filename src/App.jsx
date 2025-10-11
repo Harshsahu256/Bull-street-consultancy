@@ -42,7 +42,7 @@ const App = () => {
     <Route  path="/terms-and-condition" element={<TermsCondition />} />
     <Route  path="/privacy-policy" element={<PrivacyPolicy />} />    
     <Route  path="/return-refund" element={<Return />} />
-    <Route  path="/disclosure" element={<Disclouse />} />
+    {/* <Route  path="/disclosure" element={<Disclouse />} /> */}
     <Route  path="/products/equity" element={<Equity />} />
     <Route  path="/products/currency-derivatives" element={<CurrencyDerivatives/>} />
     <Route  path="/products/ipo" element={<Ipo />} />
