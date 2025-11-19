@@ -11,7 +11,7 @@ const WhyBullstreet = () => {
       >
         <div className="container ">
           <h2 className="text-center text-white headingcommon pb-4">
-            Why Bullstreet Consultancy?
+            Why Option Money Research ?
           </h2>
 
           <section className="container">
@@ -19,7 +19,7 @@ const WhyBullstreet = () => {
               <div className="box  p-2 py-4  m-3 text-white text-center border-1 rounded-3 ">
                 <h5>Guidance:</h5>
                 <p className="consultancy">
-                  Our team at Bullstreet Consultancy consists of experienced
+                  Our team at Option Money Research  consists of experienced
                   financial analysts who provide exceptional guidance, backed by
                   years of expertise. We’re dedicated to helping you make
                   informed and strategic investment decisions.
@@ -29,7 +29,7 @@ const WhyBullstreet = () => {
                 <h5>Cutting-Edge Technology:</h5>
                 <p className="consultancy">
                   Utilizing the latest advancements in financial technology,
-                  Bullstreet Consultancy offers advanced trading tools and
+                  Option Money Research  offers advanced trading tools and
                   platforms that empower you to stay ahead of market trends,
                   execute trades efficiently, and manage your portfolio
                   seamlessly.

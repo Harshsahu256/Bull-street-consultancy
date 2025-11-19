@@ -6,12 +6,12 @@ const EquityDeriAdvantage = () => {
     <div className=' container '>
         <div className='row '>
             <div className="col-md-6 col-12 pe-md-5">
-                <h3 className='common-heading-product '>Option Trading with Bullstreet Consultancy</h3>
+                <h3 className='common-heading-product '>Option Trading with Option Money Research </h3>
                 <p className='common-para-product'>An option is a financial contract that provides an investor with the right, but not the obligation, to trade shares of stock at a specified price, known as the strike price. Options can be utilized by investors who already own shares of stock, referred to as a covered option, but they can also be used by those who do not currently own the underlying stock. The option contract clearly defines whether it is a call (right to buy) or a put (right to sell), the number of shares involved, the strike price, the expiration date, and any terms related to settling a closed position.</p>
                 <p className='common-para-product'>The cost of the option, known as the premium, fluctuates based on factors such as the expiration date, stock volatility, and the strike price. Options are a powerful tool in the equity market, allowing investors to hedge risks and manage their investment strategies effectively. They provide flexibility, enabling investors to speculate or protect their portfolios from market fluctuations with minimized risk exposure.</p>
 
 
-                <h3 className='common-heading-product '>Futures Trading with Bullstreet Consultancy</h3>
+                <h3 className='common-heading-product '>Futures Trading with Option Money Research </h3>
                 <p className='common-para-product'>A future is a binding contract between two parties where one party (the buyer) agrees to purchase the underlying security at a specified future date and price. Unlike options, which provide a right without an obligation, futures contracts create a mandatory obligation. This means that the buyer is required to purchase the stock when the contract reaches its agreed-upon date. Similarly, the seller is obligated to sell the stock at that time. Futures are typically traded on exchanges, offering transparency and standardization. These contracts are commonly used for hedging or speculating on the future price movements of the underlying assets, providing investors with a mechanism to manage risk in volatile markets.</p>  
             </div>
             <div className="col-md-6 col-12">
@@ -27,7 +27,7 @@ const EquityDeriAdvantage = () => {
                     </ul>
                 </div>
 
-                <h5 className='common-heading2-product pt-5'>Advantages of Trading in the Equity Derivative Market with Bullstreet Consultancy</h5>
+                <h5 className='common-heading2-product pt-5'>Advantages of Trading in the Equity Derivative Market with Option Money Research </h5>
                 <div className='li-container'>
                     <ul >
                         <li className='text-start product-litag'> Trading with us is as easy as a cakewalk.</li>

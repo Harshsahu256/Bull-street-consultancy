@@ -17,12 +17,12 @@ const PrivacyPolicy = () => {
           
          
         
-      <p className=' bannerpara font400'>Bullstreet Consultancy respects your privacy and is committed to safeguarding the personal information you share with us. This Privacy Policy outlines how we collect, use, and protect your personal information when you visit our website and use our services.</p>
+      <p className=' bannerpara font400'>Option Money Research  respects your privacy and is committed to safeguarding the personal information you share with us. This Privacy Policy outlines how we collect, use, and protect your personal information when you visit our website and use our services.</p>
 
        <h4 className=" mb-3 headingbanner font600" >
        1. Information Collection
       </h4>
-      <p className=' bannerpara font400'>Bullstreet Consultancy collects necessary personally identifiable information to respond to your requests for services. This may include, but is not limited to, your first and last name, email address, phone number, profession, address, and any other information that may identify you as a specific individual when linked with the above data.</p>
+      <p className=' bannerpara font400'>Option Money Research  collects necessary personally identifiable information to respond to your requests for services. This may include, but is not limited to, your first and last name, email address, phone number, profession, address, and any other information that may identify you as a specific individual when linked with the above data.</p>
       <p className=' bannerpara font400'>We do not collect personally identifiable information unless you voluntarily provide it.</p>
       <h4 className=" mb-3 headingbanner font600" >
       2. Use of Information
@@ -41,7 +41,7 @@ const PrivacyPolicy = () => {
       <h4 className=" mb-3 headingbanner font600" >
       3. Communication
       </h4>
-      <p className=' bannerpara font400'>By providing your mobile number on Bullstreet Consultancy’s website, you consent to be contacted by our team and agree to receive SMS notifications related to our services, even if the number is registered on the Do Not Disturb (DND) list.</p>
+      <p className=' bannerpara font400'>By providing your mobile number on Option Money Research ’s website, you consent to be contacted by our team and agree to receive SMS notifications related to our services, even if the number is registered on the Do Not Disturb (DND) list.</p>
 
       <h4 className=" mb-3 headingbanner font600" >
       4. Payment Information
@@ -51,12 +51,12 @@ const PrivacyPolicy = () => {
       <h4 className=" mb-3 headingbanner font600" >
       5. Cookies
       </h4>
-      <p className=' bannerpara font400'>Bullstreet Consultancy uses cookies to enhance the user experience and track website usage. Cookies help us identify and remember your preferences each time you visit our site. If you prefer not to use cookies, you can disable them in your browser settings. Please note that certain features of the website may not function properly without cookies.</p>
+      <p className=' bannerpara font400'>Option Money Research  uses cookies to enhance the user experience and track website usage. Cookies help us identify and remember your preferences each time you visit our site. If you prefer not to use cookies, you can disable them in your browser settings. Please note that certain features of the website may not function properly without cookies.</p>
 
       <h4 className=" mb-3 headingbanner font600" >
       6. Changes to Privacy Policy
       </h4>
-      <p className=' bannerpara font400'>Bullstreet Consultancy may update this Privacy Policy occasionally. Any changes will be posted on this page. We encourage you to check this page regularly for updates. Continued use of the website after any changes to the Privacy Policy will constitute your acceptance of those changes.</p>
+      <p className=' bannerpara font400'>Option Money Research  may update this Privacy Policy occasionally. Any changes will be posted on this page. We encourage you to check this page regularly for updates. Continued use of the website after any changes to the Privacy Policy will constitute your acceptance of those changes.</p>
       
        <h4 className=" mb-3 headingbanner font600" >
        7. Consent

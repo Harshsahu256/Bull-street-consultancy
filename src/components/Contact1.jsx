@@ -35,7 +35,7 @@ const Contact1 = () => {
 
             <a href="tel:919685905899" className="text-decoration-none">
                 <p className="text-white text-decoration-none bannerpara">
-                  +91 9516062699{" "}
+                 +91  9755197839{" "}
                 </p>
                 {/* <p className="text-white text-decoration-none bannerpara">
                   +91 9516064440{" "}
@@ -57,11 +57,11 @@ const Contact1 = () => {
               Email Us{" "}
             </h4>
             <a
-              href="mailto:info@bullstreetconsultancy.in"
+              href="mailto:info@optionmoneyresearch.com"
               className="text-decoration-none"
             >
               <p className="text-white bannerpara">
-                info@bullstreetconsultancy.in{" "}
+                info@optionmoneyresearch.com{" "}
               </p>
             </a>
             <div

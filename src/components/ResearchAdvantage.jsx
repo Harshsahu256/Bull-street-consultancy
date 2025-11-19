@@ -20,7 +20,7 @@ const ResearchAdvantage = () => {
           >
             Investing in the stock market can feel like a gamble, especially
             with its volatility. With the market fluctuating unpredictably, it's
-            hard to know where to invest. Bullstreet Consultancy offers a
+            hard to know where to invest. Option Money Research  offers a
             trusted, transparent approach to investing, ensuring no hidden terms
             or misleading conditions.
           </p>
@@ -52,7 +52,7 @@ const ResearchAdvantage = () => {
             <div className="col-md-6 col-12 pe-md-5">
               <h3 className="common-heading-product mt-5">Top Picks</h3>
               <p className="common-para-product">
-                Bullstreet Consultancy’s Top Picks section presents a curated
+                Option Money Research ’s Top Picks section presents a curated
                 list of the best stocks to invest in for maximum returns. The
                 stocks featured in this list are selected after thorough
                 research and analysis of the market, considering various factors
@@ -82,7 +82,7 @@ const ResearchAdvantage = () => {
               <h3 className="common-heading-product mt-5">IPO</h3>
               <p className="common-para-product">
                 Stay updated with the latest Initial Public Offerings (IPOs) on
-                the market. Bullstreet Consultancy provides timely information
+                the market. Option Money Research  provides timely information
                 on new IPO opportunities, allowing you to evaluate the potential
                 of these offers before making your investment decisions.
               </p>

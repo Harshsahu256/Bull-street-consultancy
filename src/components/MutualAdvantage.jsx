@@ -16,10 +16,10 @@ const MutualAdvantage = () => {
                 <p className='common-para-product'><b>Regulatory Compliance: </b> All mutual funds are registered with SEBI (Securities Exchange Board of India) and must adhere to strict regulations, ensuring investor protection.</p>
             </div>
             <div className="col-md-5 col-12">
-                <h5 className='common-heading2-product '>Benefits of investing in Mutual Fund using  Bullstreet Consultancy</h5>
+                <h5 className='common-heading2-product '>Benefits of investing in Mutual Fund using  Option Money Research </h5>
                 <div className='li-container'>
                     <ul >
-                        <li className='text-start product-litag'>Bullstreet Consultancy keeps clients updated with the latest feeds and schemes from fund houses.</li>
+                        <li className='text-start product-litag'>Option Money Research  keeps clients updated with the latest feeds and schemes from fund houses.</li>
                         <li className='text-start product-litag'>Our platform is continuously updated with ongoing news feeds on mutual funds and expert reactions to market changes.</li>
                         <li className='text-start product-litag'>Stay informed about the newest fund offers and opportunities to maximize your investments.</li>
                         <li className='text-start product-litag'>The tools and information provided help clients choose the best-suited schemes based on their individual needs.</li>

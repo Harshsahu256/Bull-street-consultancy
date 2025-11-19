@@ -53,6 +53,8 @@ const HeaderOne = () => {
 
   return (
     <>
+    ....................
+    
       <div className="overlay" />
       <div
         className={`side-overlay ${(menuActive || activeCategory) && "show"}`}
@@ -219,7 +221,6 @@ const HeaderOne = () => {
                  
                 </ul>
               </li>
-
               {/* media Menu */}
               <li
                 onClick={() => handleMenuClick(3)}
@@ -301,7 +302,7 @@ const HeaderOne = () => {
           </div>
         </div>
       </div>
-      {/* ==================== Mobile Menu End Here ==================== */}
+
       {/* ======================= Middle Top Start ========================= */}
       <div className="header-top bg-main-600 flex-between">
         <div className="container container-lg">
@@ -354,7 +355,7 @@ const HeaderOne = () => {
         </div>
       </div>
       {/* ======================= Middle Top End ========================= */}
-      {/* ==================== Header Start Here ==================== */}
+   
       <header
         className={`header bg-white border-bottom border-gray-100 ${
           scroll && "fixed-header"

@@ -16,14 +16,14 @@ const Mission = () => {
               }}
             />
       <p className="text-dark common-para-product">
-      At Bullstreet Consultancy, we are guided by a clear Mission, Vision, and core Values that define the way we conduct business and serve our clients. These principles align with the regulations set by the authorities governing the financial markets and reflect our commitment to ethical and transparent practices.
+      At Option Money Research , we are guided by a clear Mission, Vision, and core Values that define the way we conduct business and serve our clients. These principles align with the regulations set by the authorities governing the financial markets and reflect our commitment to ethical and transparent practices.
       </p>
       <p className="text-dark common-para-product">Our focus is always on the success and satisfaction of our clients. We strive to provide a clear, unfiltered view of the market, ensuring that every individual who entrusts us with their investments is confident that their hard-earned money is working towards multiplying their wealth.
     </p>
-    <p className="text-dark common-para-product">In a financial landscape cluttered with empty promises and fleeting illusions, Bullstreet Consultancy stands apart. We empower our clients with the truth about the market, helping them navigate challenges and recover from setbacks with the unwavering support of our expertise.
+    <p className="text-dark common-para-product">In a financial landscape cluttered with empty promises and fleeting illusions, Option Money Research  stands apart. We empower our clients with the truth about the market, helping them navigate challenges and recover from setbacks with the unwavering support of our expertise.
     </p>
 
-    {/* <h5 className='common-heading-product '>Why Choose Bullstreet Consultancy for Equity Market Trading?</h5> */}
+    {/* <h5 className='common-heading-product '>Why Choose Option Money Research  for Equity Market Trading?</h5> */}
                 <div className='li-container my-5  '>
 
                   <h3 className="text-white">Our Vision and Mission:</h3>

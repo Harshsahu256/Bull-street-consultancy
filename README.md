@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 9294556388
 Mumbai
-info@bullstreetconsultancy.in
+info@optionmoneyresearch.com

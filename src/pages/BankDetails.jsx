@@ -41,7 +41,7 @@ const BankDetails = () => {
           </tr>
           <tr> 
               <td colspan="4" >
-              ACCOUNT NAME – BULLSTREET CONSULTANCY PRIVATE LIMITED USCNB</td>
+              ACCOUNT NAME – Option Money Research  PRIVATE LIMITED USCNB</td>
           </tr>
           <tr>
             <th>Bankdetail</th>
@@ -62,7 +62,7 @@ const BankDetails = () => {
            <tr> 
               <td colspan="4" style={{fontSize:"12px"}}>
                 
-"Investors are requested to note that Bullstreet Consultancy Private Limited is authorized to receive funds from investors only through designated bank accounts, known as Upstreaming Client Nodal Bank Accounts (USCNBA). Bullstreet Consultancy Private Limited is also obligated to disclose these USCNBA accounts to the Stock Exchange. Therefore, we request you to use only the specified USCNBA accounts for transactions in your trading account with us. The details of these USCNBA accounts are also available on the Stock Exchanges' websites under the section 'Know/Locate your Stock Broker.'"</td>
+"Investors are requested to note that Option Money Research  Private Limited is authorized to receive funds from investors only through designated bank accounts, known as Upstreaming Client Nodal Bank Accounts (USCNBA). Option Money Research  Private Limited is also obligated to disclose these USCNBA accounts to the Stock Exchange. Therefore, we request you to use only the specified USCNBA accounts for transactions in your trading account with us. The details of these USCNBA accounts are also available on the Stock Exchanges' websites under the section 'Know/Locate your Stock Broker.'"</td>
           </tr>
         </tbody>
       </table>

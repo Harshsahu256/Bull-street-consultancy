@@ -40,7 +40,7 @@ const IPOAdvantage = () => {
                 maximize their returns efficiently.
               </p>
               <p className="common-para-product">
-                At Bullstreet Consultancy, we guide you through the IPO process,
+                At Option Money Research , we guide you through the IPO process,
                 helping you make informed decisions and capitalize on these
                 lucrative opportunities.
               </p>

@@ -53,12 +53,14 @@ const MainFooter = () => {
             <div className="container-fluid text-center text-md-start mt-5">
               <div className="row mt-3">
                 <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-                  <img
-                    src={logo}
-                    alt="Footer Logo"
-                    height="80px"
-                    width="280px"
-                  />
+              <img
+  src={logo}
+  alt="Footer Logo"
+  height="125px"
+  width="125px"
+  style={{ marginLeft: "80px",marginTop: "-30px" }} 
+/>
+
                   {/* <h6 className="text-uppercase fw-bold">Company name</h6>
                 <hr
                     className="mb-4 mt-0 d-inline-block mx-auto"
@@ -97,11 +99,11 @@ const MainFooter = () => {
                       Products
                     </Link>
                   </p>
-                  <p>
+                  {/* <p>
                     <Link to="/package" className="text-white">
                       Package
                     </Link>
-                  </p>
+                  </p> */}
                   <p>
                     <Link to="/bank-detail" className="text-white">
                       Bank Detail
@@ -172,30 +174,38 @@ const MainFooter = () => {
                     JP Nagar, Bangalore -560078{" "}
                   </p>
                   <a
-                    href="mailto:info@bullstreetconsultancy.in"
+                    href="mailto:info@optionmoneyresearch.com"
                     className="text-decoration-none"
                   >
                     <p className="text-white">
                       <FaRegEnvelope className="me-3" />
-                      info@bullstreetconsultancy.in
+                      info@optionmoneyresearch.com
                     </p>{" "}
                   </a>
                   <a href="tel:919685905899" className="text-decoration-none">
                     <p className="text-white">
-                      <IoCallOutline className="me-3" /> +91 9516062699
+                      <IoCallOutline className="me-3" />+91  9755197839
                     </p>
-                    <p className="text-white">
+                    {/* <p className="text-white">
                       <IoCallOutline className="me-3" /> +91 9516064440
-                    </p>
+                    </p> */}
                   </a>
 
                   <div className="d-flex justify-content-start mt-2 mt-lg-0">
-                    <a
+                    {/* <a
                       className="btn btn-outline-light mx-1"
                       href="https://wa.link/nm5r3a"
                     >
                       <FaWhatsapp />
+                    </a> */}
+                                    <a
+                      className="btn btn-outline-light mx-1"
+                      href="https://wa.me/919755197839"
+                    >
+                      <FaWhatsapp />
                     </a>
+
+
                     <a
                       className="btn btn-outline-light mx-1"
                       href="https://x.com/Consultanc41711?t=_O7-YXrz9Jj_Nadzfoy1oQ&s=08"
@@ -228,7 +238,7 @@ const MainFooter = () => {
             className="text-center p-3"
             style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
           >
-            © 2024 Copyright Bullstreet Consultancy. All Rights Reserved.
+            © 2024 Copyright Option Money Research . All Rights Reserved.
           </div>
 
           <Marquee>

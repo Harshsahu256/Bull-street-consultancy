@@ -55,7 +55,7 @@ const MainHeader = () => {
         <nav className="navbar navbar-expand-lg  sticky-md-top d-none d-lg-block ">
           <div className="container">
             <Link className="navbar-brand" to="/" onClick={handleCloseMenu}>
-              <img src={logo} alt="Logo" height="70px" width="200px" />
+              <img src={logo} alt="Logo" height="110px" width="110px" />
             </Link>
 
             {/* Collapsible Navbar Content */}
@@ -133,13 +133,13 @@ const MainHeader = () => {
                 </li>
 
                 <li className="nav-item">
-                  <Link
+                  {/* <Link
                     className="nav-link fw-semibold  "
                     to="/package"
                     onClick={handleCloseMenu}
                   >
                     Packages
-                  </Link>
+                  </Link> */}
                 </li>
                 <li className="nav-item">
                   <Link
@@ -174,12 +174,19 @@ const MainHeader = () => {
 
               {/* WhatsApp Button */}
               <div className="d-flex justify-content-center mt-2 mt-lg-0">
-                <a
+                {/* <a
                   className="btn btn-outline-danger mx-1"
                   href="https://wa.link/nm5r3a"
                 >
                   <FaWhatsapp />
-                </a>
+                </a> */}
+                <a
+  className="btn btn-outline-danger mx-1"
+  href="https://wa.me/919755197839"
+>
+  <FaWhatsapp />
+</a>
+
                 <a
                   className="btn btn-outline-danger mx-1"
                   href="https://x.com/Consultanc41711?t=_O7-YXrz9Jj_Nadzfoy1oQ&s=08"

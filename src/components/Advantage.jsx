@@ -6,7 +6,7 @@ const Advantage = () => {
     <>
       <div className="container mt-5 pt-5">
         <h3 className="text-center common-heading-product ">
-          BENEFITS OF INVESTING WITH BULLSTREET CONSULTANCY
+          BENEFITS OF INVESTING WITH Option Money Research 
         </h3>
         <div className="row">
           <div className="col-md-6 col-12 mt-3">

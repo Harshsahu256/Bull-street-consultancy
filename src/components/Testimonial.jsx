@@ -35,19 +35,19 @@ const Testimonial = () => {
       <div>
         <h3 className='text-center font-bold fontstylecss' >Rohan Jain</h3>
         <h6 className='text-center font-semibold fontstylecss'>Marketing Executive</h6>
-        <p className='text-center fontstylecss'> Bullstreet Consultancy completely transformed my approach to investing. Their tailored strategies aligned seamlessly with my financial goals, and the expert guidance provided was invaluable. I've witnessed substantial growth in my portfolio, all thanks to their transparent and proactive approach.
+        <p className='text-center fontstylecss'> Option Money Research  completely transformed my approach to investing. Their tailored strategies aligned seamlessly with my financial goals, and the expert guidance provided was invaluable. I've witnessed substantial growth in my portfolio, all thanks to their transparent and proactive approach.
         </p>
 
         </div>
       <div>
         <h3 className='text-center font-bold fontstylecss' >Rajesh Mehta</h3>
         <h6 className='text-center font-semibold fontstylecss'>Marketing Head</h6>
-        <p className='text-center fontstylecss'>Bullstreet Consultancy exceeded all my expectations. Their transparent communication and customized investment plans helped me achieve impressive returns. The team’s dedication to my success made my investment journey smooth and rewarding. I'm incredibly satisfied with their exceptional services.</p>
+        <p className='text-center fontstylecss'>Option Money Research  exceeded all my expectations. Their transparent communication and customized investment plans helped me achieve impressive returns. The team’s dedication to my success made my investment journey smooth and rewarding. I'm incredibly satisfied with their exceptional services.</p>
         </div>
       <div>
         <h3 className='text-center font-bold fontstylecss' >Naresh Sharma</h3>
         <h6 className='text-center font-semibold fontstylecss'>Sales Executive</h6>
-        <p className='text-center fontstylecss'>Choosing Bullstreet Consultancy was one of the best decisions for my financial journey. Their expert team and innovative strategies gave me the confidence to navigate the stock market with ease. Bullstreet’s personalized solutions and attentive support make them a standout in the industry. Highly recommended!</p>
+        <p className='text-center fontstylecss'>Choosing Option Money Research  was one of the best decisions for my financial journey. Their expert team and innovative strategies gave me the confidence to navigate the stock market with ease. Bullstreet’s personalized solutions and attentive support make them a standout in the industry. Highly recommended!</p>
 </div>
       
     </Slider>

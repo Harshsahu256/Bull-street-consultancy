@@ -16,7 +16,7 @@ const Return = () => {
           }}
         />
         <p className=" bannerpara font400">
-          At Bullstreet Consultancy, we prioritize customer satisfaction and aim
+          At Option Money Research , we prioritize customer satisfaction and aim
           to provide the highest quality services. However, due to the nature of
           our services, all payments made are final. We do not offer any refunds
           or cancellations for services once they have been purchased.
@@ -81,7 +81,7 @@ const Return = () => {
 
         <h4 className=" mb-3 headingbanner font600">6. Agreement</h4>
         <p className=" bannerpara font400">
-          By making a payment for membership to Bullstreet Consultancy, you
+          By making a payment for membership to Option Money Research , you
           acknowledge that you have read and agree to the above No Refund and No
           Cancellation Policy.
         </p>

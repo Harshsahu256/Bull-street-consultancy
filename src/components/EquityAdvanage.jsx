@@ -12,7 +12,7 @@ const EquityAdvanage = () => {
                 <p className='common-para-product'>With significant foreign investments pouring into India from developed nations, the Indian equity market is poised for unprecedented growth, offering potentially higher returns than many global markets. This creates a compelling opportunity for investors to capitalize on India’s economic transformation.</p>
             </div>
             <div className="col-md-5 col-12">
-                <h5 className='common-heading2-product '>Why Choose Bullstreet Consultancy for Equity Market Trading?</h5>
+                <h5 className='common-heading2-product '>Why Choose Option Money Research  for Equity Market Trading?</h5>
                 <div className='li-container'>
                     <ul >
                         <li className='text-start product-litag'>Trading with us is safe and simple as a cake walk.</li>
