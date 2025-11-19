@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Import Route here
 import Home from './pages/Home'
@@ -62,3 +63,23 @@ const App = () => {
 }
 
 export default App
+=======
+// src/App.jsx
+
+import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+import HomePage1 from './pages/Home/HomePage1';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import './App.css';
+const App = () => {
+    return (
+        <BrowserRouter>
+    
+            <HomePage1 />
+        </BrowserRouter>
+    );
+};
+
+export default App;
+>>>>>>> 26bb72dccd297270a65cfd99b7708cb95f5a8ed4
